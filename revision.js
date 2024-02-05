@@ -302,3 +302,5 @@ let numbers = [22, 33, 55, 66, 678, 88, 76, 100]
 
 // fruits.splice(1, 2, "Chikoo", "Guava", "Lemon")
 // console.log(fruits)
+
+console.log("Ajay")
