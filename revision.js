@@ -298,7 +298,7 @@ let numbers = [22, 33, 55, 66, 678, 88, 76, 100]
 // console.log(s2)
 // console.log(cities)
 
-let fruits = ["Apple", "Mango", "Grapes", "Watermelon"]
+// let fruits = ["Apple", "Mango", "Grapes", "Watermelon"]
 
-fruits.splice(1, 2, "Chikoo", "Guava", "Lemon")
-console.log(fruits)
+// fruits.splice(1, 2, "Chikoo", "Guava", "Lemon")
+// console.log(fruits)
