@@ -64,3 +64,5 @@ console.log(q1)
 fruits = ['mango', 'apple', 'banana', 'tomato', ]
 fruits.splice(1, 2, "chikoo", 'pineapple', 'xyz')
 console.log(fruits)
+
+console.log(typeof(cities))
