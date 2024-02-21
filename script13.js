@@ -60,5 +60,3 @@ a9 = n.some(function(el, index, arr) {
     return el > 70
 })
 console.log(a9)
-
-
