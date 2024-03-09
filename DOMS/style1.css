@@ -1,0 +1,13 @@
+.one {
+    background-color: rgb(161, 83, 235);
+    color: rgb(20, 224, 132);
+}
+
+.two {
+    background-color: blueviolet;
+    color: blanchedalmond;
+}
+
+#three {
+    color: rgba(236, 22, 22, 0.979);
+}
