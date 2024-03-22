@@ -90,5 +90,30 @@ roles2.forEach(function(val, key) {
 })
 
 
+let mapA = new Map([
+
+    ["MH", "Chandrapur"],
+    ["UP", "Kanpur"],
+    ["RJ", "Rajasthan"]
+
+])
+
+for (let key of mapA.keys()) {
+
+    console.log(key)
+
+}
+
+for (let val of mapA.values()) {
+
+    console.log(val)
+
+}
+
+for (let [k, v] of mapA.entries()) {
+
+    console.log(k, v)
+
+}
 
 //
