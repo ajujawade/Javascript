@@ -68,3 +68,9 @@ e1 = names.filter(function(el, index, arr) {
     return el
 })
 console.log(e1)
+
+names.forEach(function(el, index, arr) {
+
+    console.log(el)
+
+});
