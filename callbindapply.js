@@ -11,7 +11,7 @@
 // let tanushri = {
 
 //     firstName: "Tanushri",
-//     lastName: "Jivtide",
+//     lastName: "Jivtode",
 
 // }
 // q1 = ajay.displayName
