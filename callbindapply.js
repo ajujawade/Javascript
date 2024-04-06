@@ -58,13 +58,13 @@ disp1.call(tanushri, "Hello")
 let disp2 = function(a) {
 
     console.log(`${this.firstName} ${this.lastName}`)
-    for (let i = 0; i < a.length; i++) {
-        console.log(a[i])
-    }
+    console.log(a)
 
 }
 
-disp2.apply(tanushri, ["Ajay", "Jawade"])
+disp2.apply(tanushri, [
+    ["Ajay", "Jawade"]
+])
 
 // Function Declaration
 
