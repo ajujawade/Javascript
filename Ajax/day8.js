@@ -41,7 +41,6 @@ let id = getUserPage(prompt("Enter Page Number "))
     return getUserByid(id)
 })
 
-
 .then(function(obj){
     renderHTML(obj)
 })
