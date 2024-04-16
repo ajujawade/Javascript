@@ -6,7 +6,7 @@ function getUserPage(pageNumber) {
     })
     .then(function(response){
         // console.log(response)\
-        return response.data[0].id
+        return response.data[prompt("Enter Index ")].id
     })
 }
 
